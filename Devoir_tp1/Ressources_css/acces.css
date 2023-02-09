@@ -1,0 +1,37 @@
+body{
+	background: #6c8092;
+}
+
+body{
+    font:20px;
+}
+
+#container {
+    width:400px;
+    margin:0 auto;
+    margin-top:10%;
+}
+
+/* Set a style for all buttons */
+#submit_deco {
+    background-color: #c07777;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    
+}
+#submit_deco:hover {
+    background-color: white;
+    color: #915252;
+    border: 1px solid #9e5858;
+}
+
+
+
+
+
+
+
+
